@@ -6,4 +6,7 @@ Works on a [DIY MORE ESP32 with battery](https://www.diymore.cc/products/diymore
 
 Talks to a [pump device](https://github.com/Bazmundi/openpump2).
 
+STL for attaching ESP32 to [foot pedal](https://www.jaycar.com.au/foot-switch/p/SP0760?pos=3&queryId=f8e7217c185d09882be335ca7b8dd32c) at [Thingiverse](https://www.thingiverse.com/thing:5493426).
+
+You just need add a SSD1306 128x32 bit OLED (four pin).
 
