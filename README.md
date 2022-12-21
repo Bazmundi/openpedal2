@@ -10,3 +10,6 @@ STL for attaching ESP32 to [foot pedal](https://www.jaycar.com.au/foot-switch/p/
 
 You just need add a SSD1306 128x32 bit OLED (four pin).
 
+## The duo
+
+![Alt text](/pics/duo.jpg "The team of two")
